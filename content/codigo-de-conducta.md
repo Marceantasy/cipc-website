@@ -5,10 +5,10 @@ subtitle: "Al participar en el capamento aceptas los siguientes lineamientos"
 order: 5
 ---
 
-Nosotros, los participantes, voluntarios, organizadores, profesores, medios de comunicación, patrocinadores y otras personas involucradas con el Campamento Invernal de Programación Competitiva 2024, nos reunimos para el intercambio abierto de ideas, la libertad de pensamiento y expresión, y para desarrollar nuestras habilidades, lo cual es central para los objetivos de esta Escuela. Esto requiere una comunidad y un entorno que reconozcan y respeten el valor inherente de cada persona.
+Nosotros, los participantes, voluntarios, organizadores, profesores, medios de comunicación, patrocinadores y otras personas involucradas con el Campamento Invernal de Programación Competitiva 2024, nos reunimos para el intercambio abierto de ideas, la libertad de pensamiento y expresión, y para desarrollar nuestras habilidades, lo cual es central para los objetivos de este Campamento. Esto requiere una comunidad y un entorno que reconozcan y respeten el valor inherente de cada persona.
 
 ## RESPONSABILIDAD
-Todos los participantes, voluntarios, organizadores, profesores, medios de comunicación y patrocinadores (referidos colectivamente como "Participantes" en este documento) en nuestra Escuela están igualmente sujetos a este Código de Conducta.
+Todos los participantes, voluntarios, organizadores, profesores, medios de comunicación y patrocinadores (referidos colectivamente como "Participantes" en este documento) en nuestro Campamento están igualmente sujetos a este Código de Conducta.
 Los organizadores harán cumplir este Código, y se espera que todos los Participantes cooperen para ayudar a garantizar un entorno seguro e inclusivo para todos.
 
 ## POLÍTICA
